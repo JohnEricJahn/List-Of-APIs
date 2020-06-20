@@ -11,11 +11,13 @@
 :information_source: Information about the project:
 This project gives the user the possibility to create and manipulate a contact list.
 
+<br>
+
 :computer: Features:
 <ul style="list-style-type:square">
 <li>Registration system.</li>
-Login system.</li>
-CRUD operations.</li>
+<li>Login system.</li>
+<li>CRUD operations.</li>
 </ul>
 
 <br>
