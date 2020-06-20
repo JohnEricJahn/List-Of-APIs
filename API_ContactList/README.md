@@ -8,13 +8,22 @@
   </a>
 </p>
 
-💻 Features:<br>
-&nbsp;&nbsp;1. Registration system.<br>
-&nbsp;&nbsp;2. Login system.<br>
-&nbsp;&nbsp;3. CRUD operations.<br><br><br>
+:information_source: Information about the project:
+This project gives the user the possibility to create and manipulate a contact list.
 
-:information_source: About the project?<br>
-&nbsp;&nbsp;1. I am using webpack to convert the code to a standard compatible with most browsers.<br>
-&nbsp;&nbsp;2. The database used was MongoDB, data modeling was performed with the Mongoose library.<br>
-&nbsp;&nbsp;3. The software architecture used was MVC.<br>
-&nbsp;&nbsp;4. Protection against CSRF attacks using the CSURF extension. Users passwords will be saved in the database with a password hash, we will use the "bcryptjs" extension.
+:computer: Features:
+<ul style="list-style-type:square">
+<li>Registration system.</li>
+Login system.</li>
+CRUD operations.</li>
+</ul>
+
+<br>
+
+:rocket: Technologies:
+<ul style="list-style-type:square">
+<li>I am using webpack to convert the code to a standard compatible with most browsers.</li>
+<li>The database used was MongoDB, data modeling was performed with the Mongoose library.</li>
+<li>The software architecture used was MVC.</li>
+<li>Protection against CSRF attacks using the CSURF extension. Users passwords will be saved in the database with a password hash, we will use the BCRYPTJS extension.</li>
+</ul>
