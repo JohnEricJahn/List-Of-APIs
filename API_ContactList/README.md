@@ -8,7 +8,7 @@
   </a>
 </p>
 
-:information_source: Information about the project:
+:information_source: Information about the project:<br>
 This project gives the user the possibility to create and manipulate a contact list.
 
 <br>
