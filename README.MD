@@ -8,7 +8,7 @@
   </a>
 </p>
 
-## :information_source: What's this repositorie about?
+## :information_source: What's this repository about?
 
 This repository was created with focus to learn how develop APIRest with NodeJS.<br>
 I also did it thinking about getting to know the best libraries, frameworks and databases to work with NodeJS.<br>
